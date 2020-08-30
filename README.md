@@ -1,1 +1,2 @@
-# Neuural_Cognitive_Modeling
+# Intro To Neural and Cognitive modelling
+
